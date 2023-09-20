@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, Im currently studying in Bauman Moscow State University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.webp">
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Go**
 
 - 🤝 I’m looking for help with **Cross-platform development**
 
