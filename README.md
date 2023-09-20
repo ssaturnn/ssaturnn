@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🤝 I’m looking for help with **Cross-platform development**
+- 🤝 I’m looking for help with **Backend development**
 
 - 📫 How to reach me **sashaturchaninov@gmail.com**
 
