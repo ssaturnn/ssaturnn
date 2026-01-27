@@ -1,20 +1,34 @@
 [![MasterHead](https://i.gifer.com/78KH.gif)](https://ssaturnn.io)
-<h1 align="center">Hi 👋, I'm Saturn</h1>
-<h3 align="center">Hi there, Im currently studying in Bauman Moscow State University.</h3>
+
+<h1 align="center">Hey there 👋 I'm Saturn</h1>
+<h3 align="center">Go Developer | AI/ML Integration | Building things that scale</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.webp">
 
-- 🌱 I’m currently learning **Go**
+### 🚀 About Me
 
-- 🤝 I’m looking for help with **Backend development**
+- 🎓 **BSc Software Engineering** @ Bauman Moscow State Technical University
+- 📚 **MSc Computing** (in progress) @ Atlantic Technological University, Ireland
+- 💼 Backend Engineer building AI-powered HR tools at scale
+- 🔭 Currently working on **RAG systems, ML integrations & high-load services**
+- 🌍 Based in **Galway, Ireland**
 
-- 📫 How to reach me **sashaturchaninov@gmail.com**
+### 🛠️ Tech Stack
+```
+Go • PostgreSQL • Kafka • Redis • Docker • RAG • LLM Integrations
+```
 
-- ⚡ Fun fact **Im a basketball player)**
+### ⚡ Fun facts
 
-<h3 align="left">Connect with me:</h3>
+- 🏂 Snowboarding since I was 12
+- ⛵ Recently got back into sailing
+- 🎬 Building a YouTube channel about tech & travel
+
+### 📫 Let's connect
+
 <p align="left">
-<a href="https://stackoverflow.com/users/user:19660248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19660248" height="30" width="40" /></a>
-<a href="https://instagram.com/_sa.tur.n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sa.tur.n_" height="30" width="40" /></a>
+<a href="mailto:sashaturchaninov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saaturn" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/_sa.tur.n_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/19660248" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
-
-
